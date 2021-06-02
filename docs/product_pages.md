@@ -2,7 +2,7 @@
 title: Product Pages
 ---
 
-# [Products](https://surajapps.github.io/product_pages/)
+# [Products](https://surajapps.github.io/product_pages)
 
 - [WhatsApp Web for Tablet](https://surajapps.github.io/product_pages/whatsapp_tablet)
 - [SysExpose](https://surajapps.github.io/product_pages/sysexpose)
