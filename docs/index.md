@@ -7,8 +7,8 @@ This is the official site of all SurajApps products. Links to the complete range
 - [WhatsApp Web for Tablet](https://github.com/SurajApps/WhatsApp-WebTab)
 - [SysExpose](https://github.com/SurajApps/SysExpose/)
 
+This website contains the installation instructions and links for all products.
 
-You can use the  to maintain and preview the content for your website in Markdown files.
 ### WhatsApp Web for Tablet: Installation Instructions
 
 1. Download the latest release from [here](https://github.com/SurajApps/WhatsApp-WebTab/releases/).
