@@ -4,11 +4,11 @@ This is the complete list of products made by SurajApps, and links to their page
 
 - [Encrypt.io](https://surajapps.github.io/Encryptio) - This lets you encrypt and decrypt files using Fernet keys.
 
-- [SysExpose](https://surajapps.github.io/SysExpose) - This lets you view system information about CPU/Storage/System/Network etc.
+- ~~[SysExpose](https://surajapps.github.io/SysExpose) - This lets you view system information about CPU/Storage/System/Network etc.~~
 
-- [HashChecker](https://surajapps.github.io/HashChecker) - This lets you view the integrity of a file, buy comparing a given hash to a freshly calculated one.
+- ~~[HashChecker](https://surajapps.github.io/HashChecker) - This lets you view the integrity of a file, buy comparing a given hash to a freshly calculated one.~~
 
-- [yt_download_GUI](https://surajapps.github.io/yt_download_GUI) - A simple GUI application in order to download YouTube videos to your local system.
+- ~~[yt_download_GUI](https://surajapps.github.io/yt_download_GUI) - A simple GUI application in order to download YouTube videos to your local system.~~
 
 ## NOTE: 
 
